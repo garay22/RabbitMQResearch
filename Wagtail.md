@@ -11,3 +11,5 @@ Text-based tutorial series: [https://www.accordbox.com/blog/wagtail-tutorials/](
 Demo (bakery): [https://github.com/wagtail/bakerydemo](https://github.com/wagtail/bakerydemo)
 
 Additional walkthrough: [https://steelkiwi.com/blog/how-to-use-the-wagtail-cms-for-django-an-overview/](https://steelkiwi.com/blog/how-to-use-the-wagtail-cms-for-django-an-overview/)
+
+Full Wagtail site: [https://github.com/copev313/Wagtail-CMS-Getting-Started/tree/main](https://github.com/copev313/Wagtail-CMS-Getting-Started/tree/main)
