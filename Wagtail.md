@@ -15,3 +15,5 @@ Additional walkthrough: [https://steelkiwi.com/blog/how-to-use-the-wagtail-cms-f
 Full Wagtail site: [https://github.com/copev313/Wagtail-CMS-Getting-Started/tree/main](https://github.com/copev313/Wagtail-CMS-Getting-Started/tree/main)
 
 Wagtail repo in conjuction with tutorial series: [https://github.com/CodingForEverybody/learn-wagtail](https://github.com/CodingForEverybody/learn-wagtail)
+
+Helpful menu system video: [https://www.youtube.com/watch?v=Y8a9ROUUJXU](https://www.youtube.com/watch?v=Y8a9ROUUJXU)
