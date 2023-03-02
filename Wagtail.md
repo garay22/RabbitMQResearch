@@ -19,3 +19,5 @@ Wagtail repo in conjuction with tutorial series: [https://github.com/CodingForEv
 Helpful menu system video: [https://www.youtube.com/watch?v=Y8a9ROUUJXU](https://www.youtube.com/watch?v=Y8a9ROUUJXU)
 
 How to create Wagtail interactive guide: [https://dev.to/lb/how-to-build-an-interactive-guide-for-users-in-the-wagtail-cms-admin-2dcp](https://dev.to/lb/how-to-build-an-interactive-guide-for-users-in-the-wagtail-cms-admin-2dcp)
+
+Very helpful GitHub repo: [https://github.com/springload/awesome-wagtail](https://github.com/springload/awesome-wagtail)
