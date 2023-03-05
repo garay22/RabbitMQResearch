@@ -1,6 +1,7 @@
 {% extends "base.html" %}
 
 {% load wagtailcore_tags %}
+{{ page.body|richtext }}
 
 {% block body_class %}template-homepage{% endblock %}
 
