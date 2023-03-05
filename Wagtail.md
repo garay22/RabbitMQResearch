@@ -15,3 +15,13 @@ Additional walkthrough: [https://steelkiwi.com/blog/how-to-use-the-wagtail-cms-f
 Full Wagtail site: [https://github.com/copev313/Wagtail-CMS-Getting-Started/tree/main](https://github.com/copev313/Wagtail-CMS-Getting-Started/tree/main)
 
 Wagtail repo in conjuction with tutorial series: [https://github.com/CodingForEverybody/learn-wagtail](https://github.com/CodingForEverybody/learn-wagtail)
+
+Helpful menu system video: [https://www.youtube.com/watch?v=Y8a9ROUUJXU](https://www.youtube.com/watch?v=Y8a9ROUUJXU)
+
+How to create Wagtail interactive guide: [https://dev.to/lb/how-to-build-an-interactive-guide-for-users-in-the-wagtail-cms-admin-2dcp](https://dev.to/lb/how-to-build-an-interactive-guide-for-users-in-the-wagtail-cms-admin-2dcp)
+
+Very helpful GitHub repo: [https://github.com/springload/awesome-wagtail](https://github.com/springload/awesome-wagtail)
+
+Tips on Wagtail without root: [https://chemicloud.com/kb/article/install-wagtail-without-root-access/](https://chemicloud.com/kb/article/install-wagtail-without-root-access/)
+
+How to import files to Wagtail: [https://cynthiakiser.com/blog/2022/07/02/import-files-into-wagtail.html](https://cynthiakiser.com/blog/2022/07/02/import-files-into-wagtail.html)
