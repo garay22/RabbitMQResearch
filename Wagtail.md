@@ -25,3 +25,5 @@ Very helpful GitHub repo: [https://github.com/springload/awesome-wagtail](https:
 Tips on Wagtail without root: [https://chemicloud.com/kb/article/install-wagtail-without-root-access/](https://chemicloud.com/kb/article/install-wagtail-without-root-access/)
 
 How to import files to Wagtail: [https://cynthiakiser.com/blog/2022/07/02/import-files-into-wagtail.html](https://cynthiakiser.com/blog/2022/07/02/import-files-into-wagtail.html)
+
+How to change background color in Wagtail: [https://docs.wagtail.org/en/stable/topics/images.html](https://docs.wagtail.org/en/stable/topics/images.html)
