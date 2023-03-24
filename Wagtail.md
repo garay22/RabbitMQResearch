@@ -31,3 +31,5 @@ How to change background color in Wagtail: [https://docs.wagtail.org/en/stable/t
 Details on Wagtail's vulnerabilities: [https://www.cvedetails.com/vulnerability-list/vendor_id-23152/product_id-82628/Torchbox-Wagtail.html](https://www.cvedetails.com/vulnerability-list/vendor_id-23152/product_id-82628/Torchbox-Wagtail.html)
 
 Wagtail blog demo: [https://blog.michaelyin.info/wagtail-blog-demo-now-available/](https://blog.michaelyin.info/wagtail-blog-demo-now-available/)
+
+Background color toggle issue: [https://github.com/wagtail/wagtail/issues/6582](https://github.com/wagtail/wagtail/issues/6582)
