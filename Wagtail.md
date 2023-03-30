@@ -35,3 +35,5 @@ Wagtail blog demo: [https://blog.michaelyin.info/wagtail-blog-demo-now-available
 Background color toggle issue: [https://github.com/wagtail/wagtail/issues/6582](https://github.com/wagtail/wagtail/issues/6582)
 
 Wagtail factories code: [https://github.com/wagtail/wagtail-factories](https://github.com/wagtail/wagtail-factories)
+
+Launch Wagtail on Digital Ocean: [https://learnwagtail.com/launch-your-wagtail-website-digital-ocean-ubuntu-18/](https://learnwagtail.com/launch-your-wagtail-website-digital-ocean-ubuntu-18/)
