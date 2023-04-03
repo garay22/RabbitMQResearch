@@ -37,3 +37,5 @@ Background color toggle issue: [https://github.com/wagtail/wagtail/issues/6582](
 Wagtail factories code: [https://github.com/wagtail/wagtail-factories](https://github.com/wagtail/wagtail-factories)
 
 Launch Wagtail on Digital Ocean: [https://learnwagtail.com/launch-your-wagtail-website-digital-ocean-ubuntu-18/](https://learnwagtail.com/launch-your-wagtail-website-digital-ocean-ubuntu-18/)
+
+Deploy Wagtail site on Linux: [https://www.youtube.com/watch?v=R4HMtwsRHBE](https://www.youtube.com/watch?v=R4HMtwsRHBE)
