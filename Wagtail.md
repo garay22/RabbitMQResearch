@@ -39,3 +39,5 @@ Wagtail factories code: [https://github.com/wagtail/wagtail-factories](https://g
 Launch Wagtail on Digital Ocean: [https://learnwagtail.com/launch-your-wagtail-website-digital-ocean-ubuntu-18/](https://learnwagtail.com/launch-your-wagtail-website-digital-ocean-ubuntu-18/)
 
 Deploy Wagtail site on Linux: [https://www.youtube.com/watch?v=R4HMtwsRHBE](https://www.youtube.com/watch?v=R4HMtwsRHBE)
+
+Running a Django server: [https://codinggear.blog/how-to-run-django-development-server/](https://codinggear.blog/how-to-run-django-development-server/)
