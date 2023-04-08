@@ -41,3 +41,5 @@ Launch Wagtail on Digital Ocean: [https://learnwagtail.com/launch-your-wagtail-w
 Deploy Wagtail site on Linux: [https://www.youtube.com/watch?v=R4HMtwsRHBE](https://www.youtube.com/watch?v=R4HMtwsRHBE)
 
 Running a Django server: [https://codinggear.blog/how-to-run-django-development-server/](https://codinggear.blog/how-to-run-django-development-server/)
+
+Wagtail headless CMS: [https://jamstack.org/headless-cms/wagtail/](https://jamstack.org/headless-cms/wagtail/)
