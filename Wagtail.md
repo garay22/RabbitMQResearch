@@ -43,3 +43,5 @@ Deploy Wagtail site on Linux: [https://www.youtube.com/watch?v=R4HMtwsRHBE](http
 Running a Django server: [https://codinggear.blog/how-to-run-django-development-server/](https://codinggear.blog/how-to-run-django-development-server/)
 
 Wagtail headless CMS: [https://jamstack.org/headless-cms/wagtail/](https://jamstack.org/headless-cms/wagtail/)
+
+PDF to create Wagtail pages on Digital Ocean: [https://github.com/streetcard/streetcard/blob/main/Wagtail%20Digital%20Ocean%20Deployment.pdf](https://github.com/streetcard/streetcard/blob/main/Wagtail%20Digital%20Ocean%20Deployment.pdf)
